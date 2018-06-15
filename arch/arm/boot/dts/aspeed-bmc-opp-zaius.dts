@@ -239,13 +239,13 @@
 };
 
 &i2c2 {
-	status = "disabled";
+	status = "okay";
 
 	/* OCP Mezz Connector A (OOB SMBUS) */
 };
 
 &i2c3 {
-	status = "disabled";
+	status = "okay";
 
 	/* OCP Mezz Connector A (PCIe slot SMBUS) */
 };
